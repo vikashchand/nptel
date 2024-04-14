@@ -13,6 +13,8 @@ import Timer from "./Timer";
 import data from "../src/data/questions.json";
 import data2 from "../src/data/questions2data.json";
 
+import data3 from '../src/data/questions3data.json';
+
 
 
 const initialState = {
@@ -135,8 +137,14 @@ function App() {
   useEffect(() => {
     async function fetchQuestions() {
       try {
-        const selectedData =
-          selectedFile === "questions.json" ? data.questions : data2.questions;
+        let selectedData;
+        if (selectedFile === "questions.json") {
+          selectedData = data.questions;
+        } else if (selectedFile === "questions2data.json") {
+          selectedData = data2.questions;
+        } else if (selectedFile === "questions3data.json") {
+          selectedData = data3.questions;
+        }
         dispatch({ type: "dataRetrieved", payload: selectedData });
       } catch (err) {
         dispatch({ type: "dataRetrievalFailed", payload: err });
@@ -155,9 +163,15 @@ function App() {
   return (
     <div className="app">
       <Header />
+       
+      <h4>Welcome to NPTEL quiz</h4>
+
+      
+      <h4>Select subject from drop down menu</h4>
       <select className="seles" onChange={handleFileChange} value={selectedFile}>
         <option value="questions.json">WildLife Ecology</option>
         <option value="questions2data.json">Conservation Economics</option>
+        <option value="questions3data.json"> Forests and their Management</option>
       </select>
       <MainEle>
         {status === "loading" && <Loader />}

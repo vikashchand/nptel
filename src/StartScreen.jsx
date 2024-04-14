@@ -1,12 +1,12 @@
 function StartScreen({ numQuestions, dispatch }) {
   return (
     <div className="start">
-      <h2>Welcome to Nptel Quiz</h2>
+      
       <h4>
         {" "}
         <div className="startscreenh4">
           {" "}
-          Refresh and select No of questions
+      select no. of questions
           <form>
           <select
           id="numQuestions"

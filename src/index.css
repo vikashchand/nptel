@@ -4,7 +4,7 @@
   --color-medium: #030609;
   --color-light: #f1f3f5;
 
-  --color-theme: #fbbc47b6;
+  --color-theme: #9b8bf7b6;
   --color-accent: #100902;
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,85.5,700&display=swap')
 }
@@ -100,8 +100,6 @@ body {
       transform: translateX(1);
   }
 }
-
-
 
 
 
