@@ -1,0 +1,1214 @@
+{
+  "questions": [
+    {
+      "question": "In the word root for Economics, nemein stands for",
+      "options": [
+        "together",
+        "to keep",
+        "house",
+        "manage"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The Phillips curve shows the relation between",
+      "options": [
+        "profit and loss",
+        "marked price and selling price",
+        "inflation rate and unemployment rate",
+        "electricity consumption and heat output"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The ability of an individual to own and exercise control over scarce resources\" is a definition of",
+      "options": [
+        "property rights",
+        "resource rights",
+        "individual rights",
+        "social rights"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Something that induces a person to act\" is a definition of",
+      "options": [
+        "enticement",
+        "attraction",
+        "incentive",
+        "occupation"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Whatever must be given up to obtain some item is a definition of",
+      "options": [
+        "explicit costs",
+        "implicit costs",
+        "opportunity costs",
+        "phantom costs"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The ability of a single economic actor (or small group of actors) to have a substantial influence on market prices\" is known as",
+      "options": [
+        "price power",
+        "market power",
+        "externality",
+        "economic power"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Input costs that require an outlay of money are",
+      "options": [
+        "explicit costs",
+        "implicit costs",
+        "opportunity costs",
+        "phantom costs"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"The property of society getting the most it can from its scarce resources\" is a definition of",
+      "options": [
+        "efficiency",
+        "equality",
+        "prudence",
+        "sustainability"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In the word root for conservation, con stands for",
+      "options": [
+        "together",
+        "to keep",
+        "house",
+        "manage"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"The ability to produce a good at a lower opportunity cost than another producer\" is a definition of",
+      "options": [
+        "real advantage",
+        "monetary advantage",
+        "comparative advantage",
+        "opportunity advantage"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The book 'An Essay on the Principles of Population' was written by",
+      "options": [
+        "Darwin",
+        "Malthus",
+        "Spencer",
+        "Owens"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The Trinity explosion of 1945 is taken as the beginning of the",
+      "options": [
+        "Holocene",
+        "Cenocene",
+        "Anthropocene",
+        "Eocene"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The demographic transition sees a society move from",
+      "options": [
+        "high birth rate, low death rate to low birth rate, high death rate",
+        "low birth rate, high death rate to low birth rate, low death rate",
+        "high birth rate, high death rate to low birth rate, low death rate",
+        "high birth rate, high death rate to low birth rate, high death rate"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a preventive check by Malthus?",
+      "options": [
+        "Foresight",
+        "Vice",
+        "Misery",
+        "Flood"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "According to the Malthusian model,",
+      "options": [
+        "Population grows in geometric progression, food supply increases in arithmetic progression",
+        "Population grows in geometric progression, food supply increases in geometric progression",
+        "Population grows in arithmetic progression, food supply increases in arithmetic progression",
+        "Population grows in geometric progression, food supply increases in geometric progression"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a pillar of sustainability?",
+      "options": [
+        "Environmental sustainability",
+        "Economic sustainability",
+        "Trans-boundary sustainability",
+        "Social sustainability"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a positive check according to Malthus?",
+      "options": [
+        "Late marriage",
+        "War",
+        "Celibacy",
+        "Moral restraint"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The quantum of human impacts can be written as",
+      "options": [
+        "I = P + A + T",
+        "I = P X A + T",
+        "I = P X A X T",
+        "I = P + A X T"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a pillar of sustainability?",
+      "options": [
+        "Social sustainability",
+        "Industrial sustainability",
+        "Agricultural sustainability",
+        "Trans-boundary sustainability"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The logistic growth equation curve is",
+      "options": [
+        "I-shaped",
+        "J-shaped",
+        "S-shaped",
+        "U-shaped"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Hydrocarbons derived from incomplete burning of mineral oils are",
+      "options": [
+        "Petrogenic hydrocarbons",
+        "Pyrogenic hydrocarbons",
+        "Biogenic hydrocarbons",
+        "Chemoenic hydrocarbons"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "When an organism absorbs a toxic substance into its tissues at a rate greater than that at which the substance is lost, we get",
+      "options": [
+        "Bioavailability",
+        "Bioaccumulation",
+        "Biomagnification",
+        "Bioresponse"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a climatic forcing for Earth?",
+      "options": [
+        "Changes in plate tectonics",
+        "Changes in Earth's orbit",
+        "Changes in the Sun's orbit",
+        "Changes in the Sun's strength"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The increasing concentration of a substance, such as a toxic chemical, in the tissue of tolerant organisms at successively higher levels in a food chain is called",
+      "options": [
+        "Bioavailability",
+        "Bioaccumulation",
+        "Biomagnification",
+        "Bioresponse"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The extent to which a chemical substance is available for uptake into an organism is",
+      "options": [
+        "Bioavailability",
+        "Bioaccumulation",
+        "Biomagnification",
+        "Bioresponse"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management has built several artificial water holes for animals and fills them up regularly with tankers. In this context of climate change, such an action would be called",
+      "options": [
+        "Adaptation",
+        "Mitigation",
+        "Deceleration",
+        "Maladaptation"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The government came up with a regulation that incandescent bulbs be replaced by LED bulbs so the electricity consumption and release of carbon dioxide from power plants are reduced. In this context of climate change, such an action would be called",
+      "options": [
+        "Adaption",
+        "Mitigation",
+        "Deceleration",
+        "Maladaptation"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with soil and species of the deciduous forest planted again. This is an example of",
+      "options": [
+        "Recovery",
+        "Restoration",
+        "Enhancement",
+        "Replacement"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Hydrocarbons derived from biological processes acting on mineral oils are",
+      "options": [
+        "Petrogenic hydrocarbons",
+        "Pyogenic hydrocarbons",
+        "Biogenic hydrocarbons",
+        "Chemoenic hydrocarbons"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not an impact of toxic chemicals?",
+      "options": [
+        "Lethal effects",
+        "Sub-lethal effects",
+        "Reduction of existing stressors",
+        "Reduced fecundity"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The movement of lions across the Gir landscape is an example of",
+      "options": [
+        "Diffusion",
+        "Secular dispersal",
+        "Jump dispersal",
+        "Drifting"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The regular seasonal movement of animals, often along fixed routes is called",
+      "options": [
+        "Translocation",
+        "Migration",
+        "Dispersal",
+        "Drifting"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
+      "options": [
+        "Translocation",
+        "Migration",
+        "Dispersal",
+        "Drifting"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Scarcity of food is a",
+      "options": [
+        "Chemical factor",
+        "Demographic factor",
+        "Push factor",
+        "Pull factor"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The geographical distribution of species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance.\" This is the statement for",
+      "options": [
+        "Liebig's law of the minimum",
+        "Liebig's law of the maximum",
+        "Shelford's law of tolerance",
+        "Shelford's law of intolerance"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a deterministic factor?",
+      "options": [
+        "Environmental variation",
+        "Forest fire",
+        "Death rate",
+        "Diseases"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a stochastic factor?",
+      "options": [
+        "Birth rate",
+        "Death rate",
+        "Population structure",
+        "Environmental fluctuation"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "A root zone treatment plant is an example of",
+      "options": [
+        "Phytoremediation",
+        "Biological control",
+        "Biomagnification",
+        "Bioaccumulation"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these correctly represents the process of habitat fragmentation and loss?",
+      "options": [
+        "Original forest --> dissection --> perforation --> fragmentation --> attrition",
+        "Original forest --> dissection --> attrition --> fragmentation --> perforation",
+        "Original forest --> dissection --> perforation --> attrition --> fragmentation",
+        "Original forest --> dissection --> fragmentation --> perforation --> attrition"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"The rate of any biological process is limited by that factor in least amount relative to requirement, so there is a single limiting factor.\" This is the statement for",
+      "options": [
+        "Liebig's law of the minimum",
+        "Liebig's law of the maximum",
+        "Shelford's law of tolerance",
+        "Shelford's law of intolerance"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"If private parties can bargain without cost over the allocation of resources, they can solve the problem of externalities on their own.\" This is a statement for",
+      "options": [
+        "Allocation theorem",
+        "Phillips theorem",
+        "Coase theorem",
+        "Nash theorem"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a method of internalization of externalities?",
+      "options": [
+        "Tradable pollution permits",
+        "Charities to social causes",
+        "Command and control policies",
+        "Free market"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Common resource goods are",
+      "options": [
+        "Excludable, rival in consumption",
+        "Non-excludable, rival in consumption",
+        "Excludable, non-rival in consumption",
+        "Non-excludable, non-rival in consumption"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"A simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions\" is a definition of",
+      "options": [
+        "Equation",
+        "Model",
+        "Philosophy",
+        "Process dynamics"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"A visual model of the economy that shows how money flows through markets among households and firms\" is",
+      "options": [
+        "Phillips curve",
+        "Laffer's curve",
+        "Circular flow diagram",
+        "Production possibilities frontier"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Club goods are",
+      "options": [
+        "Excludable, rival in consumption",
+        "Non-excludable, rival in consumption",
+        "Excludable, non-rival in consumption",
+        "Non-excludable, non-rival in consumption"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Public goods are",
+      "options": [
+        "Excludable, rival in consumption",
+        "Non-excludable, rival in consumption",
+        "Excludable, non-rival in consumption",
+        "Non-excludable, non-rival in consumption"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "National defense is",
+      "options": [
+        "Private good",
+        "Club good",
+        "Common resource",
+        "Public good"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Environment is",
+      "options": [
+        "Private good",
+        "Club good",
+        "Common resource",
+        "Public good"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"A measure of the responsiveness of quantity demanded or quantity supplied to a change in one of its determinants\" is",
+      "options": [
+        "Elasticity",
+        "Responsivity",
+        "Demand-supply equilibrium",
+        "Pricing"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"A legal minimum on the price at which a good can be sold\" is",
+      "options": [
+        "Price ceiling",
+        "Price floor",
+        "Selling ceiling",
+        "Selling floor"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Rice and wheat are",
+      "options": [
+        "Substitutes",
+        "Complements",
+        "Club goods",
+        "Public goods"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"A legal maximum on the price at which a good can be sold\" is",
+      "options": [
+        "Price ceiling",
+        "Price floor",
+        "Selling ceiling",
+        "Selling floor"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"A measure of how much the quantity demanded of one good responds to a change in the price of another good, computed as the percentage change in quantity demanded of the first good divided by the percentage change in price of the second good\" is",
+      "options": [
+        "Price elasticity of demand",
+        "Income elasticity of demand",
+        "Cross-price elasticity of demand",
+        "Price elasticity of supply"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"A good for which, other things being equal, an increase leads to a decrease in demand\" is",
+      "options": [
+        "Normal good",
+        "Inferior good",
+        "Griffen good",
+        "Common good"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Coffee powder and sugar are",
+      "options": [
+        "Substitutes",
+        "Complements",
+        "Club goods",
+        "Public goods"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"A graph of the relationship between the price of a good and the quantity demanded\" is",
+      "options": [
+        "Demand curve",
+        "Supply curve",
+        "Laffer's curve",
+        "Phillips curve"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"A measure of how the quantity supplied of a good responds to a change in the price of that good, computed as the percentage change in quantity supplied divided by the percentage change in price\" is",
+      "options": [
+        "Price elasticity of demand",
+        "Income elasticity of demand",
+        "Cross-price elasticity of demand",
+        "Price elasticity of supply"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"A graph of the relationship between the price of a good and the quantity supplied\" is",
+      "options": [
+        "Demand curve",
+        "Supply curve",
+        "Laffer's curve",
+        "Phillips curve"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The claim that, other things being equal, the quantity supplied of a good rises when the price of the good rises\" is a statement of",
+      "options": [
+        "Law of demand",
+        "Law of supply",
+        "Law of quantity demanded",
+        "Law of quantity supplied"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The area between the supply curve and the price is an indicator of",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Value to buyers minus cost to sellers is",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The fall in total surplus that results from a market distortion, such as a tax\" is",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Imposition of tariff",
+      "options": [
+        "Increases producer surplus and government revenue",
+        "Increases consumer surplus and government revenue",
+        "Increases producer surplus, consumer surplus, and government revenue",
+        "Increases total surplus"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The area between the demand curve and the price is an indicator of",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"The amount a seller is paid for a good minus the seller's cost of providing it\" is",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The price of a good that prevails in the world market for that good\" is the definition of",
+      "options": [
+        "Export price",
+        "Import price",
+        "World price",
+        "Domestic price"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The maximum amount that a buyer will pay for a good\" is",
+      "options": [
+        "Willingness to pay",
+        "Market demand",
+        "Demand curve",
+        "Buyer's surplus"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Laffer's curve is the relationship between",
+      "options": [
+        "Inflation and unemployment",
+        "Tax size and tax revenue",
+        "Producer surplus and consumer surplus",
+        "Tax size and deadweight loss"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it\" is",
+      "options": [
+        "Consumer surplus",
+        "Producer surplus",
+        "Total surplus",
+        "Deadweight loss"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "For a positive consumption externality",
+      "options": [
+        "SMC = PMC + MD",
+        "SMC = PMC - MD",
+        "SMC = PMC",
+        "SMC = PMC - MB"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "For a positive consumption externality",
+      "options": [
+        "SMC = PMC + MD",
+        "SMC = PMC - MD",
+        "SMC = PMC",
+        "SMC = PMC - MB"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "For a negative consumption externality",
+      "options": [
+        "SMB = PMB",
+        "SMB = PMB - MD",
+        "SMB = PMB + MB",
+        "SMC = PMC / MD"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "For a negative production externality",
+      "options": [
+        "SMC = PMC + MD",
+        "SMC = PMC - MD",
+        "SMC = PMC",
+        "SMC = PMC - MB"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Partying with loud noises is an example of",
+      "options": [
+        "Negative production externality",
+        "Positive production externality",
+        "Negative consumption externality",
+        "Positive consumption externality"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "For a positive consumption externality",
+      "options": [
+        "SMB = PMB",
+        "SMB = PMB - MD",
+        "SMB = PMB + MB",
+        "SMC = PMC / MD"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "When a firm's production reduces the well-being of others who are not compensated by the firm, we have",
+      "options": [
+        "Negative production externality",
+        "Positive production externality",
+        "Negative consumption externality",
+        "Positive consumption externality"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "When an individual's consumption reduces the well-being of others who are not compensated by the individual, we have",
+      "options": [
+        "Negative production externality",
+        "Positive production externality",
+        "Negative consumption externality",
+        "Positive consumption externality"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "For a positive production externality",
+      "options": [
+        "SMB = PMB",
+        "SMB = PMB - MD",
+        "SMB = PMB + MB",
+        "SMC = PMC / MD"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Loss of ecosystem services due to mining is an example of",
+      "options": [
+        "Negative production externality",
+        "Positive production externality",
+        "Negative consumption externality",
+        "Positive consumption externality"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Costs that have already been committed and cannot be recovered\" are",
+      "options": [
+        "Fixed costs",
+        "Variable costs",
+        "Marginal costs",
+        "Sunk costs"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"The increase in output that arises from an additional unit of input\" is",
+      "options": [
+        "Marginal product",
+        "Marginal profit",
+        "Marginal loss",
+        "Marginal cost"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Total revenue minus total explicit cost\" is a definition of",
+      "options": [
+        "Economic profit",
+        "Accounting profit",
+        "Profit",
+        "Loss"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is true for a competitive firm?",
+      "options": [
+        "P > MR",
+        "P > MC",
+        "MR > MC",
+        "MR = MC"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"The increase in total cost that arises from an extra unit of production\" are",
+      "options": [
+        "Fixed costs",
+        "Variable costs",
+        "Marginal costs",
+        "Sunk costs"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The market value of the inputs a firm uses in production\" is a definition of",
+      "options": [
+        "Total revenue",
+        "Total cost",
+        "Profit",
+        "Loss"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The amount a firm receives for the sale of its output\" is a definition of",
+      "options": [
+        "Total revenue",
+        "Total cost",
+        "Profit",
+        "Loss"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is true for monopoly?",
+      "options": [
+        "P > MR",
+        "MR > MC",
+        "MC > P",
+        "MC > MR"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "A monopolist firm's profit is given by",
+      "options": [
+        "(Price - ATC) x Q",
+        "(Price x Q) x ATC",
+        "(ATC - Q) x Price",
+        "Price x Q - ATC"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Costs that vary with the quantity of output produced\" are",
+      "options": [
+        "Fixed costs",
+        "Variable costs",
+        "Marginal costs",
+        "Sunk costs"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"A difference in wages that arises to offset the non-mandatory characteristics of different jobs\" is known as",
+      "options": [
+        "Differentiating differential",
+        "Compensating differential",
+        "Differentiating integral",
+        "Compensating integral"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The increase in the amount of output from an additional unit of labor\" is",
+      "options": [
+        "Marginal product of labour",
+        "Marginal product of input",
+        "Average product of labour",
+        "Average product of input"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Absolute poverty depends",
+      "options": [
+        "On income but not on access to social services",
+        "Not on income but on access to social services",
+        "On income and on access to social services",
+        "Neither on income nor on access to social services"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"A condition where a household's income is lower that the median income in the particular country\" is known as",
+      "options": [
+        "Absolute poverty",
+        "Relative poverty",
+        "Median poverty",
+        "Poverty line"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The political philosophy according to which the government should punish crimes and enforce voluntary agreements but not redistribute income\" is",
+      "options": [
+        "Utilitarianism",
+        "Liberalism",
+        "Libertarianism",
+        "Socialism"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"The inputs used to produce good and services\" are known as",
+      "options": [
+        "Factors of input",
+        "Factors of production",
+        "Factors of industry",
+        "Factors of market"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"A condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information\" is known as",
+      "options": [
+        "Absolute poverty",
+        "Relative poverty",
+        "Median poverty",
+        "Poverty line"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"An absolute level of income set by the government for each family size below which a family is deemed to be in poverty\" is known as",
+      "options": [
+        "Deprivation line",
+        "Poverty line",
+        "Deprivation index",
+        "Poverty index"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"Government policy aimed at protecting people against the risk of adverse events\" is",
+      "options": [
+        "Social protection",
+        "Social insurance",
+        "Social security",
+        "Socialism"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"Above-equilibrium wages paid by firms to increase worker productivity\" are known as",
+      "options": [
+        "Compensating wage",
+        "Efficiency wage",
+        "Productivity wage",
+        "Retention wage"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"Apple's iPod is good, so Apple should be good for other devices as well.\" This is an example of",
+      "options": [
+        "Confirmation bias",
+        "Halo effect",
+        "Horn effect",
+        "Priming"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"Those resources that have been surveyed but we lack the technology to use them\" are",
+      "options": [
+        "Potential resources",
+        "Actual resources",
+        "Reserve resources",
+        "Stock resources"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Hydrogen for nuclear fusion is an example of",
+      "options": [
+        "Potential resource",
+        "Actual resource",
+        "Reserve resource",
+        "Stock resource"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"The part of actual resource that can be developed profitably in the future\" are",
+      "options": [
+        "Potential resources",
+        "Actual resources",
+        "Reserve resources",
+        "Stock resources"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"An action taken by an uninformed party to induce an informed party to reveal information\" is known as",
+      "options": [
+        "Signalling",
+        "Screening",
+        "Informing",
+        "Heuristics"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"The rate at which a consumer is willing to trade one good for another\" is known as",
+      "options": [
+        "Marginal rate substitution",
+        "Marginal rate of exchange",
+        "Marginal rate of trade",
+        "Marginal rate of transfer"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Mental shortcut using emotion (gut feeling) to influence the decision\" is",
+      "options": [
+        "Affect heuristic",
+        "Availability heuristic",
+        "Effort heuristic",
+        "Familiarity heuristic"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"An action taken by an informed party to reveal private information to an uninformed party\" is known as",
+      "options": [
+        "Signalling",
+        "Screening",
+        "Informing",
+        "Heuristics"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Those resources that may be used in the future\" are",
+      "options": [
+        "Potential resources",
+        "Actual resources",
+        "Reserve resources",
+        "Stock resources"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Mental shortcut justifying increased investment in a decision prior investment was made\" is",
+      "options": [
+        "Affect heuristic",
+        "Availability heuristic",
+        "Effort heuristic",
+        "Escalation of commitment"
+      ],
+      "correctOption": 3,
+      "points": 10
+    }
+  ]
+}
