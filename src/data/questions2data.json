@@ -1209,6 +1209,118 @@
       ],
       "correctOption": 3,
       "points": 10
+    },
+    {
+      "question": "As per the Wildlife Protection Act 1972 (WPA 1972), wildlife includes any animal, aquatic or land vegetation which forms part of any ______.",
+      "options": [
+        "Ecosystem",
+        "State",
+        "Country",
+        "Habitat"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Zoo is an example of",
+      "options": [
+        "In-situ conservation",
+        "Ex-situ conservation",
+        "In-situ preservation",
+        "Ex-situ preservation"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "People come to Sessa Orchid Sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+      "options": [
+        "Umbrella species",
+        "Keystone species",
+        "Flagship species",
+        "Extinct species"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Soil formation is an example of",
+      "options": [
+        "Provisioning service",
+        "Regulating service",
+        "Supporting service",
+        "Cultural service"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Captive breeding is an example of",
+      "options": [
+        "In-situ conservation",
+        "Ex-situ conservation",
+        "In-situ preservation",
+        "Ex-situ preservation"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Nutrient cycling is an example of",
+      "options": [
+        "Provisioning service",
+        "Regulating service",
+        "Supporting service",
+        "Cultural service"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The fig tree would be a good example of",
+      "options": [
+        "Least concern species",
+        "Keystone species",
+        "Flagship species",
+        "Extinct species"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+      "options": [
+        "Very high",
+        "Medium",
+        "Very low",
+        "Non-existent"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Supply of medicines is an example of",
+      "options": [
+        "Provisioning service",
+        "Regulating service",
+        "Supporting service",
+        "Cultural service"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Religious benefits are an example of",
+      "options": [
+        "Provisioning service",
+        "Regulating service",
+        "Supporting service",
+        "Cultural service"
+      ],
+      "correctOption": 3,
+      "points": 10
     }
+
+
   ]
 }
